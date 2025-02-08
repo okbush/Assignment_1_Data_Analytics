@@ -1,1 +1,4 @@
-# Assignment_1_Data_Analytics
+# Data Analytics: Assignment 1
+
+submitted to Gerard Ompad
+submitted by Daphne Lyra Surigao and Kim Andre Mauring
